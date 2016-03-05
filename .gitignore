@@ -1,0 +1,9 @@
+.idea
+*.log
+*.iml
+target
+out
+node_modules
+.nrepl-port
+.DS_Store
+johnny-five
